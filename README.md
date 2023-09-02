@@ -29,7 +29,7 @@
 
 
 
-### To test the performance of TRL, please download the training results from the cloud drive to the directions: 
+### To test the performance of TRL, please download the training results from the cloud drive and untar them to the directions: 
 
 "exp1/result" 
 
