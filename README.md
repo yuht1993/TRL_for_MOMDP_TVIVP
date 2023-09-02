@@ -4,30 +4,51 @@ This repostory contains codes and test results of a proposed TRL approach for so
 Due to file upload size limitations, we have stored the offline training results of the population of neural networks on a cloud drive. For specific details, please refer to the following link:"
 
 To train the network population offline, please execute the following Jupyter Notebook：
+
 “exp1/DRL_uncertainty_result.ipynb”
+
 “exp1/DRL_out_of_sample.ipynb”
 “exp2/Offline_stage_4patch.ipynb”
+
 “exp2/Offline_stage_8patch.ipynb”
+
 “exp2/Offline_stage_12patch.ipynb”
+
 “exp2/Offline_stage_16patch.ipynb”
+
 “exp2/Offline_stage_20patch.ipynb”
+
 “exp2/Offline_stage_24patch.ipynb”
+
 “exp3/Offline_stage_low.ipynb”
+
 “exp3/Offline_stage_high.ipynb”
 
+
 To test the performance of TRL, please download the training result from the cloud drive to the directions: 
+
 "exp1/result" 
 "exp2/result" 
 "exp3/result" 
 
 execute the following Jupyter Notebook after the offline network training：
+
 “exp1/TRL_uncertainty_result.ipynb”
+
 “exp1/TRL_out_of_sample.ipynb”
+
 “exp2/Test_online_4patch.ipynb”
+
 “exp2/Test_online_8patch.ipynb”
+
 “exp2/Test_online_12patch.ipynb”
+
 “exp2/Test_online_16patch.ipynb”
+
 “exp2/Test_online_20patch.ipynb”
+
 “exp2/Test_online_24patch.ipynb”
+
 “exp3/Test_online_low.ipynb”
+
 “exp3/Test_online_high.ipynb”
