@@ -1,7 +1,8 @@
 # TRL_for_MOMDP_TVIVP
 ### This repostory contains codes and test results of a proposed TRL approach for solving Mixed observerble Markov decision process with time-varying interval-valued parameters 
 
-### Due to file upload size limitations, we have stored the offline training results of the population of neural networks on a cloud drive. For specific details, please refer to the following link:"
+### Due to file upload size limitations, we have stored the offline training results of the population of neural networks on a cloud drive. For specific details, please refer to the following link:
+
 
 
 ### To train the network population offline, please execute the following Jupyter Notebook：
@@ -31,7 +32,9 @@
 ### To test the performance of TRL, please download the training result from the cloud drive to the directions: 
 
 "exp1/result" 
+
 "exp2/result" 
+
 "exp3/result" 
 
 ### or execute the following Jupyter Notebook after the offline network training：
