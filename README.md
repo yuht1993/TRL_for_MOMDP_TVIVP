@@ -2,8 +2,7 @@
 ### This repostory contains codes and test results of a proposed TRL approach for solving mixed observerble Markov decision process with time-varying interval-valued parameters. ALl the test results of TRL and benchmarks are recoreded in the Jupyter Notebook files (.ipynb). 
 
 ### Due to file upload size limitations, we have stored the offline training results of the population of neural networks on a cloud drive. For specific details, please refer to the following link:
-### [https://pan.baidu.com/s/1Si9-5rKGfxaDlkUtoDtowg]
-### password: 67rj
+### https://pan.baidu.com/s/1Si9-5rKGfxaDlkUtoDtowg, password: 67rj
 
 ### To train the network population offline, please execute the codes in following files：
 
